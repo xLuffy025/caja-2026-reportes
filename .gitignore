@@ -1,0 +1,15 @@
+# Ignorar todo excepto la carpeta de reportes
+*
+!reportes/
+!reportes/*
+!index.html
+
+# Evitar subir archivos temporales
+*.tmp
+*.bak
+*.swp
+*.log
+
+# Evitar subir archivos del sistema
+.DS_Store
+Thumbs.db
